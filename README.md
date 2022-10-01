@@ -10,7 +10,7 @@ python XRD_operando_many_colorbar.py
 python XRD_operando_one_colorbar.py
 ```
 An example of data to be processed is located in the "Data" directory.
-## Example 1 – RD_operando_many_colorbar.py
+## Example 1 – XRD_operando_many_colorbar.py
 ![Alt-текст](https://github.com/rybakov-ks/xrd_operando/blob/main/Images/XRD5.jpg "XRD")
 ## Example 2 – XRD_operando_one_colorbar.py
 ![Alt-текст](https://github.com/rybakov-ks/xrd_operando/blob/main/Images/XRD1.jpg "XRD")
