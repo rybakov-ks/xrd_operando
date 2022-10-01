@@ -14,5 +14,7 @@ An example of data to be processed is located in the "Data" directory.
 ![Alt-текст](https://github.com/rybakov-ks/xrd_operando/blob/main/Images/XRD5.jpg "XRD")
 ## Example 2 – XRD_operando_one_colorbar.py
 ![Alt-текст](https://github.com/rybakov-ks/xrd_operando/blob/main/Images/XRD1.jpg "XRD")
+## An example of an electrochemical cell for X-ray diffraction *operando*
+![Alt-текст](https://github.com/rybakov-ks/xrd_operando/blob/main/Images/Electrochemical%20cell.jpg "XRD")
 ## Contributors
 Rybakov Kirill (Saratov State University): rybakov-ks@ya.ru
