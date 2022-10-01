@@ -1,5 +1,5 @@
 # xrd_operando
-A set of scripts for constructing diffractograms taken in the *operando* mode during charge-discharge of the electrode material.
+A set of scripts for constructing diffractograms taken in the *operando* mode during charge-discharge of the electrode material.\
 **XRD_operando_many_colorbar.py** is designed to plot X-ray diffraction versus material charge-discharge degree with separate colorbars for selected 2-Theta angle ranges.\
 **XRD_operando_one_colorbar.py** is designed to plot X-ray diffraction versus charge-discharge degree of a material with a common colorbar for selected ranges of 2-Theta angles.
 ## Usage
