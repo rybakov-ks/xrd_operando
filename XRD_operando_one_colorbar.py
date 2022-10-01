@@ -34,7 +34,7 @@ def data_import_txt():
     files_s=[]
     for file in files:
         files_s.append(int(file.split('.txt')[0]))	
-    const = 190
+    const = 900
     for filename in sorted(files_s):
         with open(str(filename) + str('.txt'), encoding="UTF-8", errors='ignore') as f:
             data_lines = f.readlines()
@@ -62,7 +62,7 @@ x = degrees
 y = intensity
 
 #Генерируем временную шкалу эксперимента
-time_step_xrd = 557
+time_step_xrd = 1140
 z = []
 for i in range(0, len(x)):
     z_temp = []
