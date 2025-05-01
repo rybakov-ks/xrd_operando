@@ -15,8 +15,8 @@ An example of data to be processed is located in the "Data" directory.
 ## Example 2 – XRD_operando_one_colorbar.py
 ![Alt-текст](https://github.com/rybakov-ks/xrd_operando/blob/main/Images/XRD1.jpg "XRD")
 ## An example of an electrochemical cell for X-ray diffraction *operando*
-Rybakov K. S., Ushakov A. V. Application of operando X-ray diffraction to evaluate phase transformations of a LiCoVO4 cathode // Electrochemical Energetics. 2022. Vol. 22, No. 4, PP. 161-169
-DOI: 10.18500/1608-4039-2022-22-4-161-169
 ![Alt-текст](https://github.com/rybakov-ks/xrd_operando/blob/main/Images/Electrochemical%20cell.jpg "XRD")
+Rybakov K. S., Ushakov A. V. Application of operando X-ray diffraction to evaluate phase transformations of a LiCoVO4 cathode // Electrochemical Energetics. 2022. Vol. 22, No. 4, PP. 161-169\
+DOI: [10.18500/1608-4039-2022-22-4-161-169](https://doi.org/10.18500/1608-4039-2022-22-4-161-169)
 ## Contributors
 Rybakov Kirill (Saratov State University): rybakov-ks@ya.ru
